@@ -9,7 +9,7 @@ try:
             passwords[website] = pwd
 except:
     pass
-
+# Generate Password
 def generate_password():
     chars = string.ascii_letters + string.digits + "!@#$%^&*"
     password = "".join(random.choice(chars) for _ in range(8))   
