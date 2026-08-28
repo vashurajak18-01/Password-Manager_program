@@ -13,7 +13,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 
 ## 🛠️ _Technologies Used_
 
-* Python
+* **Python**
 * File Handling
 * Dictionary Data Structure
 * `random` module
