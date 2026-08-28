@@ -4,7 +4,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 
 ## ✨ _Features_
 
-* 💾 Save passwords for different websites
+* 💾 _Save passwords for different websites_
 * 📋 View all saved passwords
 * 🔑 Generate random 8-character strong passwords
 * 📂 Automatically loads previously saved passwords on startup
