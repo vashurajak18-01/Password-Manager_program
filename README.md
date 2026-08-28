@@ -8,7 +8,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 * 📋 _View all saved passwords_
 * 🔑 _Generate random 8-character strong passwords_
 * 📂 _Automatically loads previously saved passwords on startup_
-* 📝 Stores passwords locally in a text file (`password.txt`)
+* 📝 _Stores passwords locally in a text file (`password.txt`)_
 * 🖥️ Simple and beginner-friendly command-line interface
 
 ## 🛠️ _Technologies Used_
