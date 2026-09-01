@@ -11,7 +11,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 * 📝 _Stores passwords locally in a text file (`password.txt`)_
 * 🖥️ _Simple and beginner-friendly command-line interface_
 
-## 🛠️ _Technologies Used_
+## 🛠️ *_Technologies Used_*
 
 * **Python**
 * File Handling
