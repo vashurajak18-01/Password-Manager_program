@@ -19,7 +19,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 * `random` module
 * `string` module
 
-## 📁 Project Structure
+## 📁 *Project Structure*
 
 ```
 Password-Manager/
