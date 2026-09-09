@@ -38,7 +38,7 @@ Password-Manager/
 python main.py
 ```
 
-## 📌 Menu Options
+## 📌 _Menu Options_
 
 ```
 1. Save Password
