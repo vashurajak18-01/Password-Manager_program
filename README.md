@@ -47,7 +47,7 @@ python main.py
 4. Exit
 ```
 
-## 📚 Concepts Used
+## 📚 **Concepts Used**
 
 * Python Functions
 * Dictionaries
