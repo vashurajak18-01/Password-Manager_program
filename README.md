@@ -17,7 +17,7 @@ A simple command-line **Password Manager** built with **Python** that allows use
 * **File Handling**
 * **Dictionary Data Structure**
 * ***`random`* module**
-* *`string`* module
+* ***`string`* module**
 
 ## 📁 **Project Structure**
 
