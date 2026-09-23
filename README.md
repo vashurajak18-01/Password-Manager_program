@@ -4,7 +4,7 @@
 
 ## ✨ **_Features_**
 
-* 💾 ***_Save passwords for different websites_***
+* 💾 ***__Save passwords for different websites__***
 * 📋 **_View all saved passwords_**
 * 🔑 **_Generate random 8-character strong passwords_**
 * 📂 **_Automatically loads previously saved passwords on startup_**
