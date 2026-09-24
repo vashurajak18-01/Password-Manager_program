@@ -11,7 +11,7 @@
 * 📝 **_Stores passwords locally in a text file (`password.txt`)_**
 * 🖥️ **_Simple and beginner-friendly command-line interface_**
 
-## 🛠️ **_Technologies Used_**
+## 🛠️ **__Technologies Used__**
 
 * **_Python_**
 * **File Handling**
