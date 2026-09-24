@@ -19,7 +19,7 @@
 * ***`random`* module**
 * ***`string`* module**
 
-## 📁 **Project Structure**
+## 📁 **_Project Structure_**
 
 ```
 Password-Manager/
