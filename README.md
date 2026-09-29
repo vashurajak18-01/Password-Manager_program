@@ -56,7 +56,7 @@ python main.py
 * Exception Handling
 * Random Password Generation
 
-## 🔮 _Future Improvements_
+## 🔮 *_Future Improvements_*
 
 * Encrypt saved passwords
 * Add a master password for authentication
