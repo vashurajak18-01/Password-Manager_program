@@ -67,6 +67,6 @@ python main.py
 * GUI version using Tkinter
 * Database support using SQLite
 
-## 📄 *_License_*
+## 📄 *__License__*
 
 This project is created for learning purposes and demonstrates Python fundamentals, file handling, and password management concepts.
