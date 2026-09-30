@@ -14,7 +14,7 @@
 ## 🛠️ **__Technologies Used__**
 
 * **__Python__**
-* **File Handling**
+* **_File Handling_**
 * **Dictionary Data Structure**
 * ***`random`* module**
 * ***`string`* module**
