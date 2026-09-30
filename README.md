@@ -13,7 +13,7 @@
 
 ## 🛠️ **__Technologies Used__**
 
-* **_Python_**
+* **__Python__**
 * **File Handling**
 * **Dictionary Data Structure**
 * ***`random`* module**
