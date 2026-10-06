@@ -6,7 +6,7 @@
 
 * 💾 **__Save passwords for different websites__**
 * 📋 **__View all saved passwords__**
-* 🔑 **_Generate random 8-character strong passwords_**
+* 🔑 **__Generate random 8-character strong passwords__**
 * 📂 **_Automatically loads previously saved passwords on startup_**
 * 📝 **_Stores passwords locally in a text file (`password.txt`)_**
 * 🖥️ **_Simple and beginner-friendly command-line interface_**
