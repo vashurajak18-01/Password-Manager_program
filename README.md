@@ -1,4 +1,4 @@
-# 🔐 **___**Personal Password Manager**___**
+# 🔐 **__**Personal Password Manager**___**
 
 **__A simple command-line **_Password Manager_** built with **Python** that allows users to save, view, and generate strong passwords. The application stores website credentials in a local text file, making it easy to manage passwords without requiring a database.__**
 
